@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TinyBitTurtle.Core
+namespace tinybitturtle.core
 {
     public class SingletonMonoBehaviour<T> : MonoBehaviour where T : MonoBehaviour
     {
