@@ -2,9 +2,7 @@
     "name": "tinybitturtle.core",
     "references": [],
     "includePlatforms": [],
-    "excludePlatforms": [
-        "Stadia"
-    ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
